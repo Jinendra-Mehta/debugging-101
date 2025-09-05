@@ -1,0 +1,23 @@
+{
+  "name": "debugging-101",
+  "version": "1.0.0",
+  "main": "breakpoints-debugging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinendra-Mehta/debugging-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinendra-Mehta/debugging-101/issues"
+  },
+  "homepage": "https://github.com/Jinendra-Mehta/debugging-101#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
